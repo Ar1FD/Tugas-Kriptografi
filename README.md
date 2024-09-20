@@ -13,3 +13,10 @@ Aplikasi ini adalah GUI sederhana untuk melakukan enkripsi dan dekripsi teks men
 - **Perpustakaan Python** yang dibutuhkan:
   - `Tkinter` (biasanya sudah tersedia pada instalasi standar Python)
   - `numpy` (untuk operasi matriks pada Hill Cipher)
+
+## Cara Menjalankan Program
+
+### 1. Clone Repository
+Clone repository dari GitHub ke komputer lokal Anda.
+```bash
+git clone https://github.com/username/repository-name.git
