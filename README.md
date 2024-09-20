@@ -20,3 +20,16 @@ Aplikasi ini adalah GUI sederhana untuk melakukan enkripsi dan dekripsi teks men
 Clone repository dari GitHub ke komputer lokal Anda.
 ```bash
 git clone https://github.com/username/repository-name.git
+```
+
+## 2. Instalasi Perpustakaan yang Dibutuhkan
+Pastikan `numpy` telah diinstal. Jika belum, install dengan menjalankan perintah berikut di terminal:
+```bash
+pip install numpy
+```
+
+## 3. Menjalankan Program
+Untuk menjalankan aplikasi, navigasikan ke direktori tempat program disimpan dan jalankan perintah berikut:
+```bash
+python Kriptografi.py
+```
